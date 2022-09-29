@@ -1,0 +1,375 @@
+*{
+font-family: 'Poppins';
+}
+body{
+    overflow-x: hidden;
+}
+/* Navbar section */
+
+.Navabr{
+    background-color:#758283;
+}
+.logo {
+    margin: 10px;
+    padding: 10px;
+}
+.logo img{
+    height: 40px;
+    width: 80px;
+    object-fit:scale-down;
+}
+.Navbar-list{
+    display: flex;
+    position: absolute;
+    left: 40%;
+    top: 20px;
+    list-style-type: none;
+}
+.list-item{
+    margin: 5px 10px;
+    padding: 5px 10px;
+    font-size: 18px;
+    color: white;
+}
+.btn{
+    position:absolute;
+    top: 18px;
+    left: 65rem;
+
+}
+.btn-1{
+    margin: 5px 25px;
+    padding: 5px 25px;
+    font-size: 20px;
+    background-color: #758283;
+    border: 1px solid white;
+    color: white;
+    position: absolute;
+    left: 69px;
+}
+.first-image img{
+    height: 425px;
+    width: 350px;
+    margin: 50px;
+    position: relative;
+    top: -10vh;
+    object-fit: cover;
+    margin-left: 80px;
+    
+}
+.Hadding-1{
+    height: 210px;
+    width: 494px;
+    position: absolute;
+    left: 35rem;
+    top: 13vh;
+    font-size: 30px;
+    color: white;
+}
+.first-para{
+    height: 200;
+    width: 450px;
+    position: absolute;
+    left: 35rem;
+    top: 56vh;
+    font-size: 15px;
+    color: white;
+
+}
+.long-buttoon-area{
+    position: absolute;
+    left: 34rem;
+    top: 75vh;
+}
+.email-section{
+    margin: 10px;
+    padding: 11px;
+    width: 200%;
+    height: 25px;
+}
+.button-1{
+    position: absolute;
+    left: 55rem;
+    top: 76vh;
+
+}
+.email-submit{
+    padding: 10px 20px;
+    margin: 10px;
+    background-color:#81c29e;
+    border:1px solid #81c29e;
+    color: white;
+    position: absolute;
+    left: 43%;
+}
+
+/* hadding-part  */
+
+.Hadding-part{
+    text-align: center;
+    align-items: center;
+    margin-top: 30px;
+    width: 40%;
+    position: absolute;
+    left: 28%;
+    font-style: 30px;
+}
+
+.All-project-status{
+    display: flex;
+    position: absolute;
+    top: 136vh;
+    left: 20%;
+}
+.Finished{
+    margin: 0px 10px;
+    padding: 0px 10px;
+    font-size: 20px;
+    text-align: center;
+    align-items: center;
+}
+.Finished p{
+    font-size: 15px;
+    margin: 0px 10px;
+    padding: 0px 10px;
+}
+
+/* image section */
+
+.Large-image img{
+    width: 1000px;
+    position: absolute;
+    top: 158vh;
+    left: 25vh;
+    margin: 5px;
+    padding: 5px;
+    border: 1px solid black;
+
+}
+
+.media-player img{
+    top: 100vh;
+    left: 100vh;
+    border: 1px solid black;
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    position: relative;
+}
+
+.second-section-hadding{
+    position: absolute;
+    top: 280vh;
+    left: 71vh;
+    width: 30%;
+    margin: 10px;
+    padding: 10px;
+    font-size: 18px;
+    text-align: center;
+    align-items: center;
+}
+.second-saction-part{
+    position: absolute;
+    top: 300vh;
+    left: 20vh;
+
+}
+.Effective{
+    font-size: 30px;
+    margin-top: 30px;
+    width: 385px;
+    position: absolute;
+    top: 20vh;
+}
+.Effective-para{
+    position: absolute;
+    top: 40vh;
+    width: 441px;
+}
+.btn-01{
+    position: absolute;
+    top: 360vh;
+    left: 20vh;
+}
+.btn-item{
+    margin: 10px 20px;
+    padding: 10px 20px;
+    background-color: #81c29e;;
+    border: #81c29e;
+    color: white;
+}
+.image-mediam img{
+    height: 350px;
+    width: 350px;
+    position: absolute;
+    top: 320vh;
+    left: 135vh;
+}
+.Thired-section img{
+    height: 350px;
+    width: 350px;
+    position: absolute;
+    top: 390vh;
+    left: 20vh;
+}
+.thired-hadind{
+    position: absolute;
+    top: 391vh;
+    left: 136vh;
+    font-size: 25px;
+    width: 343px;
+}
+.thired-para{
+    position: absolute;
+    top: 417vh;
+    left: 136vh;
+    width: 453px;
+    opacity: 0.6;
+}
+.btn-3{
+    position: absolute;
+    top: 435vh;
+    left: 136vh;
+}
+.btn-style{
+    margin: 10px 20px;
+    padding: 10px 20px;
+    background-color: #81c29e;;
+    border: #81c29e;
+    color: white;
+}
+.fourth-hadding{
+    position: absolute;
+    top: 460vh;
+    left: 20vh;
+    font-size: 30px;
+    width: 362px;
+}
+.fourth-para{
+    position: absolute;
+    top: 480vh;
+    left: 20vh;
+    font-size: 18px;
+    width: 470px;
+}
+.btn-4{
+    position: absolute;
+    top: 500vh;
+    left: 20vh;
+}
+.btn-style-2{
+    margin: 10px 20px;
+    padding: 10px 20px;
+    background-color: #81c29e;;
+    border: #81c29e;
+    color: white;
+}
+.fourth-image img{
+    position: absolute;
+    height: 350px;
+    width: 350px;
+    top: 450vh;
+    left: 136vh;
+}
+.hadding-5{
+    position: absolute;
+    top: 520vh;
+    left: 20vh;
+    width: 370px;
+    font-size: 20px;
+    opacity: 0.6;
+}
+.hadding-05{
+    position: absolute;
+    left: 136vh;
+    width: 77vh;
+    top: 520vh;
+    opacity: 0.6;
+}
+.All-Three-image{
+    display: flex;
+
+}
+.Three-image img{
+    width: 307px;
+    position: relative;
+    top: 429vh;
+    margin: 5px;
+    padding: 5px;
+    margin-left: 5vh;
+    left: 20vh;
+}
+.Three-image h4{
+    border: 2px solid black;
+    position: absolute;
+    top: 620vh;
+    margin-left: 25vh;
+    border: none;
+}
+.Three-image p{
+    border: 2px solid black;
+    position: absolute;
+    top: 625vh;
+    height: 50px;
+    width: 312px;
+    margin: 5px;
+    padding: 10px;
+    border: none;
+    margin-left: 24vh;
+    opacity: 0.6;
+}
+.btn-02{
+    position: absolute;
+    top: 637vh;
+    left: 44%;
+}
+.Three-btn{
+    margin: 10px 20px;
+    padding: 10px 20px;
+    background-color: #81c29e;;
+    border: #81c29e;
+    color: white;
+}
+.logo-1 img{
+    position: absolute;
+    height: 50px;
+    width: 50px;
+    object-fit: contain;
+    margin-left: 10vh;
+    color: white;
+    z-index: 1;
+}
+.icons img{
+    position: absolute;
+    left: 146vh;
+}
+.All-navbar-section{
+    border: 1px solid black;
+    position: absolute;
+    top: 650vh;
+    width: 100%;
+    list-style-type: none;
+    padding: 20px;
+}
+.All-navbar-section{
+    background-color: rgb(49, 47, 47);
+    color: white;
+}
+.our-Products{
+    display: flex;
+
+}
+.footer-item{
+    margin: 5px 30px;
+    padding: 5px 30px;
+    text-align: center;
+    align-items: center;
+    position: relative;
+    top: 5vh;
+
+}
+hr{
+    position: relative;
+    top: 48px;
+}
+    
